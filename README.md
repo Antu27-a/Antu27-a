@@ -1,5 +1,5 @@
 ## Hi there 👋
-Me llamo Antu Nahuel Paladea Torres tengo 17 años de edad estudio en la EESTN°1 y se sobre los siguientes lengaujes de programacion:
+
 ![html-5 (2)](https://github.com/user-attachments/assets/86bbb2d4-94cd-417c-8f66-0f84fa944a9a) ![css-3 (1)](https://github.com/user-attachments/assets/a8cb61de-88c7-4a49-bed8-a4678d3e5f8f)
 ![js (1)](https://github.com/user-attachments/assets/5b598af8-c2be-4877-8000-09c196578829)![mysql (1)](https://github.com/user-attachments/assets/57bbb6e9-3ad3-4590-834f-7a3e4e8079ad)
 ![php (1)](https://github.com/user-attachments/assets/d3c22ec8-4a41-4aad-8fea-62ca416c7251)![servidor-sql](https://github.com/user-attachments/assets/11ecf58e-0e80-4a11-a534-b3b32dd5541a)
